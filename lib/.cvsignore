@@ -1,0 +1,10 @@
+*.la
+*.lo
+Makefile
+*.in
+.deps
+.libs
+config.h
+stamp-*
+getdate.c
+curllib.dsp

@@ -1,0 +1,10 @@
+This is what's new and changed in the c-ares 1.5.3 release:
+
+ o adig sample application compilation failure on some systems
+
+Thanks go to these friendly people for their efforts and contributions:
+
+ Brad House
+ and obviously Daniel Stenberg
+
+Have fun!
